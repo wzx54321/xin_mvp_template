@@ -13,13 +13,7 @@
       
 
   
-<parameter
-        id="isCoach"
-        name="是否是教练端,不勾选为家长端"
-        type="boolean"
-        default="true"
-        help="选择对应的App" />  
-  
+
  
  
 
